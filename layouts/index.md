@@ -1,7 +1,7 @@
 ---
-markdown: redcarpet
-project: my cool website
-
+layout: index
+title: It works
+---
 <html>
   <head>
   </head>
