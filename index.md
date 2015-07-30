@@ -6,4 +6,4 @@ title: It works
 
 # Blog
 
-{% include post_nav %}
+{% include post_nav.html %}
