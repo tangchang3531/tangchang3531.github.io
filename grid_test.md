@@ -2,18 +2,6 @@
 layout: index
 title: It works
 ---
-
-<style>
-.row:nth-child(odd) {
-   background-color: #abc;
-}
-.row:nth-child(even) {
-   background-color: #eee;
-}
-.row *:nth-child(odd) {
-   background-color: yellow;
-}
-</style>
 <div class="row">
   <div class="col-md-1">.col-md-1</div>
   <div class="col-md-1">.col-md-1</div>
