@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: bootstrap
 title: Bootstrap grid test
 ---
 # {{ page.title }}
