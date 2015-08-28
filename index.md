@@ -2,9 +2,11 @@
 layout: index
 title: It works
 ---
-<div class="well">
-<h1>汤畅的网站，正在建设中</h1>
-</div>
+<nav class="navbar navbar-inverse">
+  <div class="well">
+    <h1>汤畅的网站，正在建设中</h1>
+  </div>
+</nav>
 
 
 <ul class="nav nav-tabs">
