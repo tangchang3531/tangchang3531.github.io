@@ -2,7 +2,9 @@
 layout: index
 title: It works
 ---
-# 汤畅的网站，正在建设中...
+<div class="well">
+<h1>汤畅的网站，正在建设中</h1>
+</div>
 
 
 <ul class="nav nav-tabs">
