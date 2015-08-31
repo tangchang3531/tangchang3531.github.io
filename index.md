@@ -1,8 +1,8 @@
 ---
 layout: index
-title: It works
+title: Hi
 ---
-
+{% include carousel.html %}
 
 <nav class="navbar navbar-inverse">
   <div class="well">
@@ -11,13 +11,3 @@ title: It works
 </nav>
 
 
-<ul class="nav nav-tabs">
-  <li role="presentation" class="active"><a href="#">Home</a></li>
-  <li role="presentation"><a href="#">Profile</a></li>
-  <li role="presentation"><a href="#">Messages</a></li>
-</ul>
-
-
-# Blog
-
-{% include post_nav.html %}
