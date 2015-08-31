@@ -1,0 +1,26 @@
+---
+markdown: redcarpet
+redcarpet:
+  extensions: ["smart", "tables", "no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
+project: Charlson
+page:
+  - title_cn: 关于我
+    title_en: About me
+    url_en: about_en.html
+    url_cn: about_cn.html
+  - title_cn: Github 网页
+    title_en: Github Webpage
+    url_cn: Githubpage_cn.html
+    url_en: Githubpage_en.html
+  - title_cn: Python学习
+    title_en: Python learning
+    url_cn: python_cn.html
+    url_en: python_en.html
+  - title_cn: 个人博客
+    title_en: Posts
+    url_cn: posts_cn.html
+    url_en: posts_en.html
+  - title_cn: 联系我
+    title_en: Contact me
+    url_cn: contact_cn.html
+    url_en: contact_en.html
