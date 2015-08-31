@@ -6,7 +6,7 @@ title: Hi
 
 <nav class="navbar navbar-inverse">
   <div class="well">
-    <h1>汤畅的网站，正在建设中</h1>
+    <h1>欢迎大家来到汤畅的网站</h1>
   </div>
 </nav>
 
