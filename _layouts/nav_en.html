@@ -1,0 +1,31 @@
+<nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/"><img src="images/logo.png" height="50" style="margin-top: -15px;"></a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            {% for item in site.page %}
+              {% if item.url_en == page.url %} 
+                <li class="active">
+              {% else %}
+                <li>
+              {% endif %}
+              <a href="{{ site.baseurl }}{{ site.url }}{{ item.url_en }}">
+                {{ item.title_en}}
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+<p align="right" style="margin:1em;">
+English | <a href="{{ site.baseurl }}{{ site.url }}{{ page.url | | replace:'_en','_cn'  }}">中文</a>
+</p>
