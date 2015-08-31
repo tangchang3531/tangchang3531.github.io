@@ -2,14 +2,7 @@
 layout: index
 title: It works
 ---
-<h2>
-<span class="label label-default">First</span>
-<span class="label label-primary">Time</span>
-<span class="label label-success">To</span>
-<span class="label label-info">Build</span>
-<span class="label label-warning">A</span>
-<span class="label label-danger">Website</span>
-</h2>
+
 
 <nav class="navbar navbar-inverse">
   <div class="well">
