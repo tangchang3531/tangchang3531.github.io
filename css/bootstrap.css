@@ -1,9 +1,0 @@
-.row:nth-child(odd) {
-background-color: #abc;
-}
-.row:nth-child(even) {
-background-color: #eee;
-}
-.row *:nth-child(odd) {
-background-color: yellow;
-}
