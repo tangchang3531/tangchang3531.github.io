@@ -1,4 +1,5 @@
-## [12 Ways to Get a Job Interview and One Way Not To](https://www.linkedin.com/pulse/20140325010439-15454-12-ways-to-get-a-job-interview-and-one-way-not-to)
+## [12 Ways to Get a Job Interview and One Way Not To](https://www.linkedin.com/pulse/20140325010439-15454-12-ways-to-get-a-job-interview-and-one-way-not-to)  
+by Lou Adler
 
 ### Don't apply directly to any job posting.
 
